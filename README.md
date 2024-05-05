@@ -4,11 +4,11 @@ This repository contains comprehensive analysis of banking data, aimed at provid
 # Introduction
 The analysis utilizes diverse datasets sourced from reputable sources, including:
 
-Internal bank databases
-Publicly available financial datasets
-Regulatory reports
-Market data providers
-Surveys and research studies
+* Internal bank databases
+* Publicly available financial datasets
+* Regulatory reports
+* Market data providers
+* Surveys and research studies
 
 # Analysis Techniques
 Descriptive statistics

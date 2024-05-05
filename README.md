@@ -11,14 +11,14 @@ The analysis utilizes diverse datasets sourced from reputable sources, including
 * Surveys and research studies
 
 # Analysis Techniques
-*Descriptive statistics
-*Exploratory data analysis (EDA)
-*Predictive modeling
-*Time series analysis
-*Cluster analysis
+* Descriptive statistics
+* Exploratory data analysis (EDA)
+* Predictive modeling
+* Time series analysis
+* Cluster analysis
 
 # Key Findings
-*Customer segmentation based on demographics, behavior, and financial characteristics
-*Credit risk assessment and default prediction
-*Market trends and competitive analysis
-*Emerging opportunities and challenges in the banking industry
+* Customer segmentation based on demographics, behavior, and financial characteristics
+* Credit risk assessment and default prediction
+* Market trends and competitive analysis
+* Emerging opportunities and challenges in the banking industry

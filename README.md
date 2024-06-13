@@ -1,4 +1,4 @@
-# Comprehensive Banking Analysis
+# Data-Driven Banking: Modeling for Decision-Making Excellence
 # Overview
 This repository contains comprehensive analysis of banking data, aimed at providing insights into various aspects of banking operations, customer behavior, financial trends, risk assessment, and more. The analysis utilizes a combination of statistical methods, machine learning algorithms, and data visualization techniques to uncover meaningful patterns and trends within the banking industry.
 # Introduction
